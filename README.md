@@ -13,7 +13,7 @@ Let's embark on this coding adventure together, transforming challenges into opp
 <p align="left">
 <a href="https://www.linkedin.com/in/mdzeeshanfaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zeeshan-faiz-36b3842a6/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/23130322/md-zeeshan-faiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23130322/md-zeeshan-faiz" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/zeeshan.faiz.54" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zeeshan.faiz.54" height="30" width="40" /></a>
+<a href="https://www.facebook.com/zeeshan.faiz.54/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/zeeshan.faiz.54" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
