@@ -9,6 +9,8 @@ Whether it's crafting elegant algorithms, architecting scalable systems, or divi
 
 Let's embark on this coding adventure together, transforming challenges into opportunities and turning lines of code into solutions that matter! 🚀💻</h3>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Zeeshan-Faiz&theme=dark)](https://git.io/streak-stats)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mdzeeshanfaiz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-zeeshan-faiz-36b3842a6/" height="30" width="40" /></a>
