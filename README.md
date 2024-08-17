@@ -9,7 +9,7 @@ Whether it's crafting elegant algorithms, architecting scalable systems, or divi
 
 Let's embark on this coding adventure together, transforming challenges into opportunities and turning lines of code into solutions that matter! 🚀💻</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zeeshan-Faiz&theme=dark)]
+![GitHub Streak](https://streak-stats.demolab.com/?user=Zeeshan-Faiz&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
