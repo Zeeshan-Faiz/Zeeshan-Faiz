@@ -32,7 +32,7 @@ With a strong foundation in software engineering and a deep interest in applied 
 #### 🧠 Core GenAI & LLM Ecosystem
 <p align="left">
 <a href="https://www.langchain.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="40" height="40"/> </a>
-<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/_static/logo.svg" alt="LangGraph" width="40" height="40"/> </a>
+<a href="https://www.langchain.com/langgraph" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/vector-logo/616429/langgraph.svg" alt="LangGraph" width="40" height="40"/> </a>
 <a href="https://www.llamaindex.ai/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/131686446?s=200&v=4" alt="LlamaIndex" width="40" height="40"/> </a>
 <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="OpenAI" width="40" height="40"/> </a>
 <a href="https://deepmind.google/technologies/gemini/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Gemini" width="40" height="40"/> </a>
@@ -43,11 +43,21 @@ With a strong foundation in software engineering and a deep interest in applied 
 
 #### 🔍 RAG Stack & Vector Databases
 <p align="left">
-<a href="https://faiss.ai/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/47903784?s=200&v=4" alt="FAISS" width="40" height="40"/> </a>
-<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/125414189?s=200&v=4" alt="ChromaDB" width="40" height="40"/> </a>
-<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/77132026?s=200&v=4" alt="Pinecone" width="40" height="40"/> </a>
-<a href="https://weaviate.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/54336900?s=200&v=4" alt="Weaviate" width="40" height="40"/> </a>
-<a href="https://qdrant.tech/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/109373500?s=200&v=4" alt="Qdrant" width="40" height="40"/> </a>
+<a href="https://faiss.ai/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo/faiss-logo.svg" alt="FAISS" width="40" height="40"/>
+</a>
+<a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
+  <img src="https://brandpnglogo.com/wp-content/uploads/2024/03/chroma-logo-png-svg.png" alt="ChromaDB" width="40" height="40"/>
+</a>
+<a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Pinecone-Full-Logo-Black.svg" alt="Pinecone" width="40" height="40"/>
+</a>
+<a href="https://weaviate.io/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Weaviate_logo.svg" alt="Weaviate" width="40" height="40"/>
+</a>
+<a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
+  <img src="https://brandfetch.com/qdrant.com/logo.svg" alt="Qdrant" width="40" height="40"/>
+</a>
 </p>
 
 #### ⚙️ Automation & Orchestration
