@@ -44,19 +44,19 @@ With a strong foundation in software engineering and a deep interest in applied 
 #### 🔍 RAG Stack & Vector Databases
 <p align="left">
 <a href="https://faiss.ai/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/logo/faiss-logo.svg" alt="FAISS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/faiss_logo.png" alt="FAISS" width="40" height="40"/>
 </a>
 <a href="https://www.trychroma.com/" target="_blank" rel="noreferrer">
-  <img src="https://brandpnglogo.com/wp-content/uploads/2024/03/chroma-logo-png-svg.png" alt="ChromaDB" width="40" height="40"/>
+  <img src="https://seeklogo.com/images/C/chroma-logo-3C5971EFAA-seeklogo.com.png" alt="ChromaDB" width="40" height="40"/>
 </a>
 <a href="https://www.pinecone.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Pinecone-Full-Logo-Black.svg" alt="Pinecone" width="40" height="40"/>
+  <img src="https://assets.brandfetch.io/idIq4Z0W3R/theme/light/logo.svg" alt="Pinecone" width="40" height="40"/>
 </a>
 <a href="https://weaviate.io/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Weaviate_logo.svg" alt="Weaviate" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Weaviate_logo.svg" alt="Weaviate" width="40" height="40"/>
 </a>
 <a href="https://qdrant.tech/" target="_blank" rel="noreferrer">
-  <img src="https://brandfetch.com/qdrant.com/logo.svg" alt="Qdrant" width="40" height="40"/>
+  <img src="https://qdrant.tech/images/qdrant_logo.svg" alt="Qdrant" width="40" height="40"/>
 </a>
 </p>
 
